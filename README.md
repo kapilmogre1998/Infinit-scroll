@@ -2,8 +2,8 @@
 Infinite scroll is a web design technique where, as the user scrolls down a page, more content added automatically
 
 ## Feature:
-1. Debouncing
-2. Infinite Scroll
+1. Debouncing in searc bar.
+2. Infinite Scroll.
 
 ## Technology used are
 1. HTML
