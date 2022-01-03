@@ -10,4 +10,4 @@ Infinite scroll is a web design technique where, as the user scrolls down a page
 2. CSS
 3. Javascript
 
-#### 👉 [ Click here to see](https://infinite-scroll-o2d76hrwe-kapilmogre1998.vercel.app/)
+#### 👉 [ Click here to see](https://infinite-scroll-kapilmogre1998.vercel.app/)
